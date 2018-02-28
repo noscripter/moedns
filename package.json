@@ -1,23 +1,23 @@
 {
-    "name": "phoenixdns",
-    "version": "0.0.1",
-    "private": true,
-    "scripts": {
-        "start": "node app.js"
-    },
-    "dependencies": {
-        "express": "3.3.4",
-        "async": "*",
-        "ejs": "*",
-        "less-middleware": "*",
-        "mongodb": "*",
-        "mysql": "*",
-        "connect-flash": "*",
-        "connect-mongo": "0.4.0",
-        "validator": "1.5.1",
-        "i18n": "*",
-        "tldjs": "~1.2.0",
-        "nodemailer": "*",
-        "hat": "*"
-    }
+  "name": "phoenixdns",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "async": "*",
+    "ejs": "*",
+    "less-middleware": "*",
+    "mongodb": "*",
+    "mysql": "*",
+    "connect-flash": "*",
+    "connect-mongo": "0.5.2",
+    "validator": "1.5.1",
+    "i18n": "*",
+    "tldjs": "~1.2.0",
+    "nodemailer": "*",
+    "hat": "*"
+  }
 }
